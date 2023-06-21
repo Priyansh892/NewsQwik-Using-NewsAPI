@@ -1,3 +1,8 @@
+
+NewsQwik is a website which fetches all the news using NewsAPI and shows it to the user.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
